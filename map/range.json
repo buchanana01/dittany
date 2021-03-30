@@ -316,6 +316,22 @@
           ]
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#75d5ff",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "label": "London"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.17578125,
+          51.6180165487737
+        ]
+      }
     }
   ]
 }
